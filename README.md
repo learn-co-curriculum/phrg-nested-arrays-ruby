@@ -365,6 +365,4 @@ Iterating over multidimensional arrays is tough. Try opening up a new Ruby file 
 
 Four levels deep is about as deep as you want to go when constructing multidimensional arrays. As you can see, things can quickly get messy. If you have more hierarchical data than can fit in a 4D array, it might be better to try using a dictionary-like data structure, called a hash, instead.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/nested-arrays-ruby' title='Multidimensional Arrays'>Multidimensional Arrays</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/nested-arrays-ruby'>Nested Arrays</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Multidimensional Arrays</p>
